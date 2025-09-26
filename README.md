@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Dream Destintion*
+# Web Development Project 1 - *Dream Destination*
 
 Submitted by: **Phung Tran**
 
