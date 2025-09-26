@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Watch Walkthrough on Loom](https://www.loom.com/share/0f667041fd064cb09787c5a1a2e09a23?sid=8f71f245-97e4-4943-9ca4-815dc8539236)
+<img src="https://i.imgur.com/lnp1nAP.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
